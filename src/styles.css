@@ -1,0 +1,9 @@
+button {
+  margin-top: 20px;
+  display: block;
+}
+
+input {
+  margin: 0 10px;
+  width: 50px;
+}
